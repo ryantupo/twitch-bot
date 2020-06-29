@@ -29,9 +29,9 @@ j = open("client.txt", "r")
 client = j.read()
 TOKEN = code
 CLIENT_ID = client
-NICK="RoboSauresBOT"
+NICK="name of your bot here"
 PREFIX ="!"
-CHANNEL=('nthd3gr33')
+CHANNEL=('name of channel here')
 
 
 #//////////////////////////////////////////////////////////////////////////////////////////////
